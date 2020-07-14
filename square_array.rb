@@ -1,3 +1,5 @@
-def square_array(array)
-  # your code here
+number = ["1", "2", "3"]
+def square_array(number)
+  number.each do |number*|
+  puts "Squared #"
 end
